@@ -9,6 +9,7 @@ Install
 
 Install Django dependencies:
 
+- create table in postgresql that you can change  table setting of setting.py
 .. code-block:: bash
 
     pip install -r requirements.txt
